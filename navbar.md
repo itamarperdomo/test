@@ -16,12 +16,8 @@
         <a class="nav-link" href="#/curso-minimo-python-2-lenguaje.md">Modulo 1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="http://10.10.34.30:18080/webdav/">Descargar ISO</a>
+        <a class="nav-link" href="http://10.10.34.30:18080/webdav/">Descargar ISO</a>
       </li>
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
   </div>
 </nav>
