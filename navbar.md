@@ -7,13 +7,13 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="README.md">Indice<span class="sr-only"></span></a>
+        <a class="nav-link" href="/#/README.md">Indice<span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="curso-minimo-python-1-fundamentos.md">Modulo 1</a>
+        <a class="nav-link" href="/#/curso-minimo-python-1-fundamentos.md">Modulo 1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="curso-minimo-python-2-lenguaje.md">Modulo 1</a>
+        <a class="nav-link" href="/#/curso-minimo-python-2-lenguaje.md">Modulo 1</a>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="http://10.10.34.30:18080/webdav/">Descargar ISO</a>
