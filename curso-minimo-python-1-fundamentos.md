@@ -310,6 +310,15 @@ la mayoría de sistemas como desplegar en un server de IA solo es en Linux,
 por lo que se recomienda utilizar siempre Linux ya que es donde termina
 siempre siendo desplegado.
 
+> **Warning** Desde el modulo 3 debera usar linux http://10.10.34.30:18080/webdav/
+
+ISOS que ya tiene incluido python y VScode:
+
+* http://10.10.34.30:18080/webdav/ Live Linux forensic 2025, 2 Gis
+* https://t.me/latam_programadores/697 Debian 12 2024, 2 Gis
+* https://t.me/latam_multimedia/2534 Debian 12 2024, 2 Gis
+* https://sourceforge.net/projects/vegnuli/files/ Debian 8 2020, 1 Gis
+
 #### Herramientas con Python instaladas
 
 Python no es solo un programa que compila y ejecuta, tiene varias herramientas 

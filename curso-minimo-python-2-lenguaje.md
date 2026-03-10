@@ -1195,6 +1195,29 @@ En general, este tipo de cosas no se considera una practica adecuada y no
 es correcto. Si quiere comparar un valor con cero, debera hacerlo 
 explicitamente.
 
+## Modulo 3 y programacion de sistemas y procesos
+
+Python **en Windos enfrenta limitaciones** principalmente relacionadas con la 
+dependencia de **modulos de Unix/Linux muy usadas en inteligencia artificial** 
+y **proyectos comunitarios grandes como ODOO**, gestión de procesos y 
+desarrollo de bajo nivel. No es posible utilizar de forma nativa módulos 
+exclusivos de POSIX como pty, termios o resource, ni crear ejecutables .exe 
+independientes fácilmente sin herramientas de terceros.
+
+El principal problema es el uso de `us.fork()` y `os.wait()` para gestion de 
+procesos, siendo imposible controlar y programar sistemas acoplados, que 
+es casi la totalidad de los proyectos empresariales. Windos corre en tu casita.. 
+pero Linux corre en el servidor y en las empresas grandes como Google o Nasa.
+
+> **Warning** Desde el modulo 3 debera usar linux http://10.10.34.30:18080/webdav/
+
+ISOS que ya tiene incluido python y VScode:
+
+* http://10.10.34.30:18080/webdav/ Live Linux forensic 2025, 2 Gis
+* https://t.me/latam_programadores/697 Debian 12 2024, 2 Gis
+* https://t.me/latam_multimedia/2534 Debian 12 2024, 2 Gis
+* https://sourceforge.net/projects/vegnuli/files/ Debian 8 2020, 1 Gis
+
 ## Mas en
 
 * https://gitlab.com/venenux/latam_programadores-codigos
