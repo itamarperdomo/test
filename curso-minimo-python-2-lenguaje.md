@@ -1204,10 +1204,22 @@ desarrollo de bajo nivel. No es posible utilizar de forma nativa módulos
 exclusivos de POSIX como pty, termios o resource, ni crear ejecutables .exe 
 independientes fácilmente sin herramientas de terceros.
 
+Esto esta bien descrito en https://docs.python.org/es/dev/faq/windows.html 
+como los mas simples pero no los mas complejos.
+
+* https://www.reddit.com/r/Python/comments/21ftfn/what_are_the_biggest_problems_facing_python/?tl=es-419
+* https://docs.python.org/es/3.14/using/windows.html
+* https://realpython.com/run-python-scripts/#:~:text=Para%20ejecutar%20un%20script%20de,py%20en%20lugar%20de%20python%20.
+* https://www.quora.com/What-is-the-best-OS-for-python-programming?no_redirect=1
+* https://www.quora.com/Whats-the-recommended-operating-system-for-Python-programming?no_redirect=1
+
 El principal problema es el uso de `us.fork()` y `os.wait()` para gestion de 
 procesos, siendo imposible controlar y programar sistemas acoplados, que 
 es casi la totalidad de los proyectos empresariales. Windos corre en tu casita.. 
-pero Linux corre en el servidor y en las empresas grandes como Google o Nasa.
+pero Linux corre en el servidor y en las empresas grandes como Google o NASA.
+
+Adicional la gestion con `pip` solo funciona bien en sistemas Unix y las rutas 
+empleadas en sistemas Docker requieren mucho sistemas Alpine linux.
 
 > **Warning** Desde el modulo 3 debera usar linux http://10.10.34.30:18080/webdav/
 
