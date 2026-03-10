@@ -16,7 +16,7 @@
         <a class="nav-link" href="curso-minimo-python-2-lenguaje.md">Modulo 1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="https://10.10.34.30:18080/wevdav">Descargar ISO</a>
+        <a class="nav-link disabled" href="http://10.10.34.30:18080/webdav/">Descargar ISO</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">

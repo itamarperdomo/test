@@ -75,4 +75,4 @@
 
 ## Advertencia
 
-Este curso no esta hecho para windoseros.
+Este curso no esta hecho para usarse en Windos, se recomienda usar la iso en http://10.10.34.30:18080/webdav/
