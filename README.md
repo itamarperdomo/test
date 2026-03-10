@@ -26,6 +26,41 @@
       - Python es multiparadigma
       - Programacion orientada objetos
 * [MODULO 2 curso-minimo-python-2-lenguaje.md](curso-minimo-python-2-lenguaje.md)
+    - Lexico y sintaxis
+    - Ejemplo implicito de lexico en OOP o POP
+    - Sentencias, Secuencia y Expresiones
+    - Variables y Valores
+    - Lexico en python y la sangria
+      - Palabras reservadas para el lexico
+      - Simbolos para Operadores del lexico
+      - Reglas de la Sintasix de python
+      - Reglas de Nombres de variables
+      - Usando el operador "#" y creacion de comentarios
+    - Expresiones de la sintaxis python
+      - Reglas de precedencia de los operadores
+      - Usando el operador "=" y asignacion de variables
+      - Usando "+" y concatenacion de variables
+      - usar "def" y "return" para funciones asi como definir funciones
+        - Usar "def" y "return" en Funciones de orden superior
+        - Usar "lambda" o funciones anonimas de una linea
+        - Funciones internas de python
+      - Usando "print" y como Imprimir una variable
+      - Usando "type" y Como saber el tipo de variable
+      - Usando "True" y "False" y expresiones booleanas
+      - Usando "if/elif/else" condicionales "==" y comparaciones ">" o "<"
+      - Usar el "while" y el uso de "break" en bucles
+      - Usar el "for" y el "continue" y los bucles
+      - Usar "[]" y "()" con SECUENCIAS y COLLECCIONES
+      - Usar "{}" y "]"
+      - Usar "for" en listas y diccionarios
+      - Cadenas de caracteres como listas
+      - Usar "{}" y "format" para variables dinamicas y formato de cadenas de texto
+      - Conversion de tipos usando funciones de tipos de variables
+      - Cohersion de tipos usando funciones de tipos de variables
+      - Funciones matemáticas
+      - Composición
+      - Uso de operador "%" modulo y la division "/"
+      - Uso de "and" y "or" y "not" y operaciones logicas
 
 
 ## Bibliografia y fuentes
